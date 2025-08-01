@@ -1,7 +1,6 @@
-Here’s a concise summary of the video script:
 
 ### **Summary: End-to-End CI/CD Pipeline with GitHub Actions**  
-The video demonstrates how to build a **complete CI/CD pipeline** using **GitHub Actions** for a **Flask application**. The workflow includes:  
+The code demonstrates how to build a **complete CI/CD pipeline** using **GitHub Actions** for a **Flask application**. The workflow includes:  
 
 1. **Continuous Integration (CI):**  
    - Develop a Flask app with unit tests (using **Pytest**).  
@@ -23,8 +22,3 @@ The video demonstrates how to build a **complete CI/CD pipeline** using **GitHub
 - Covers both **CI (testing/building)** and **CD (deployment)**.  
 - Demonstrates **secret management** for secure deployments.  
 
-The tutorial starts from scratch, making it beginner-friendly while covering essential DevOps practices.  
-
-Let me know if you'd like further details on any part!
-
-createa a linkdin post for the above usecase
