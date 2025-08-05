@@ -1,4 +1,7 @@
 
+# Architecture
+![Alt text](https://github.com/ansel9618/End-to-End-CI-CD-Pipeline-with-GitHub-Actions/blob/main/Architecture.png)
+
 ### **Summary: End-to-End CI/CD Pipeline with GitHub Actions**  
 The code demonstrates how to build a **complete CI/CD pipeline** using **GitHub Actions** for a **Flask application**. The workflow includes:  
 
